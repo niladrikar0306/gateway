@@ -1,4 +1,4 @@
-package com.nkar.gateway.api.model;
+package com.nkar.gateway.api.viewmodel;
 
 public class PageResponse {
 

@@ -1,4 +1,6 @@
-package com.nkar.gateway.api.model;
+package com.nkar.gateway.api.viewmodel;
+
+import com.nkar.gateway.api.model.PageType;
 
 public class PageRequest {
 

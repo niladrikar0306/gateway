@@ -1,6 +1,6 @@
-package com.nkar.gateway.api.viewmodel;
+package com.nkar.gateway.api.viewmodel.user;
 
-public class LoginViewModel {
+public class LoginRequest {
     private String email;
     private String password;
 

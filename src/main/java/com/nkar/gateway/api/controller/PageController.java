@@ -1,7 +1,7 @@
 package com.nkar.gateway.api.controller;
 
-import com.nkar.gateway.api.model.PageRequest;
-import com.nkar.gateway.api.model.PageResponse;
+import com.nkar.gateway.api.viewmodel.PageRequest;
+import com.nkar.gateway.api.viewmodel.PageResponse;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
